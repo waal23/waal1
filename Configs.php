@@ -20,4 +20,4 @@ if ($health['status'] !== 200) {
 }
 
 // Website root url
-$GLOBALS['WEBSITE_PATH'] = 'http://localhost/AdminPanel';
+$GLOBALS['WEBSITE_PATH'] = 'https://waal23.github.io/waal1/';
