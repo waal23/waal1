@@ -9,7 +9,7 @@ error_reporting(null);
 session_start();
 
 try {
-    ParseClient::initialize('HSnoUGSH5VrAik7tnZ9QrLi2TX5VugKptx8WHHh8', '1FwIvuhKA7KwFrQwJ1D5acDc2kdGQ1q7dtUlJFMf', 'ZGHAZgNdGUwHUb4jjKMvDOpl5DOQvY30b42iRSDk');
+    ParseClient::initialize('tzmWfWsT7bic1xKj8IwghdetigS4UYehLTy9Xa2G', 'Xk8riNBh3O8dxPht72K5PLqUtB9IcQuvgpeWcAaJ', 'mBLIFDALIl3yRRlwkuiytIOncLwFrX2DY1ZozN1s');
     ParseClient::setServerURL('https://parseapi.back4app.com/', '/');
     ParseClient::setStorage(new ParseSessionStorage());
 } catch (Exception $e) {
